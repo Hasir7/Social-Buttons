@@ -12,17 +12,18 @@
     box-sizing: border-box;
 }
 
+
 html, body {
     height: 100%;
 }
 
 body {
+    margin: 0;
     font-family: 'Red Hat Display', sans-serif;
     background-color: var(--background);
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 0;
 }
 
 .socials-wrapper {
