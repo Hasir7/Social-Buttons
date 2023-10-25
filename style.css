@@ -129,7 +129,7 @@ body {
 }
 
 .active .social:nth-child(4) {
-    transform: translateY(82px);
+    transform: translateY(81px);
 }
 
 .active .social:nth-child(4):hover {
